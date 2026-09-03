@@ -1,0 +1,6 @@
+node_modules/
+src/db/database.json
+uploads/*
+!uploads/.gitkeep
+.env.local
+*.log
