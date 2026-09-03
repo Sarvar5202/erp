@@ -1,0 +1,1 @@
+{"name": "najotedu-erp", "private": true, "scripts": {"build": "cd najotEdu_front-main && npm run build"}}

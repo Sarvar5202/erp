@@ -1,0 +1,1 @@
+{"buildCommand": "cd najotEdu_front-main && npm install && npm run build", "outputDirectory": "najotEdu_front-main/dist", "framework": "vite", "rewrites": [{"source": "/(.*)", "destination": "/index.html"}]}
